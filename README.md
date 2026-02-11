@@ -27,7 +27,7 @@ This enables businesses to:
 
 ---
 
-## Tools & Technologies
+## Tools 
 - Python
 - Jupyter Notebook
 - Pandas
