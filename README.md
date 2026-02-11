@@ -78,7 +78,7 @@ This enables businesses to:
 - Employees aged **30–40** show an average probability below 50%
   
 ---
-Note: The link for my Tableau visualizations are in the Tableau folder in my repository.
+Note: The link for my Tableau visualizations is in the Tableau folder in my repository.
 ---
 
 ## Business Impact
